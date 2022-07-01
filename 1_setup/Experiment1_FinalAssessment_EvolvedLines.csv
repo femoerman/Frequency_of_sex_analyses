@@ -1,0 +1,289 @@
+Population_ID,Sexual_reproduction,Stress_treatment_Evolution,Stress_treatment_Assay,Replicate,Plate,Row,Column
+EXP1.01,Asexual,No stress,No stress,1,1,B,2
+EXP1.01,Asexual,No stress,No stress,2,1,C,2
+EXP1.01,Asexual,No stress,No stress,3,1,D,2
+EXP1.01,Asexual,No stress,NaCl,1,1,E,2
+EXP1.01,Asexual,No stress,NaCl,2,1,F,2
+EXP1.01,Asexual,No stress,NaCl,3,1,G,2
+EXP1.02,Asexual,No stress,No stress,1,1,B,3
+EXP1.02,Asexual,No stress,No stress,2,1,C,3
+EXP1.02,Asexual,No stress,No stress,3,1,D,3
+EXP1.02,Asexual,No stress,NaCl,1,1,E,3
+EXP1.02,Asexual,No stress,NaCl,2,1,F,3
+EXP1.02,Asexual,No stress,NaCl,3,1,G,3
+EXP1.03,Asexual,No stress,No stress,1,1,B,4
+EXP1.03,Asexual,No stress,No stress,2,1,C,4
+EXP1.03,Asexual,No stress,No stress,3,1,D,4
+EXP1.03,Asexual,No stress,NaCl,1,1,E,4
+EXP1.03,Asexual,No stress,NaCl,2,1,F,4
+EXP1.03,Asexual,No stress,NaCl,3,1,G,4
+EXP1.04,Asexual,No stress,No stress,1,1,B,5
+EXP1.04,Asexual,No stress,No stress,2,1,C,5
+EXP1.04,Asexual,No stress,No stress,3,1,D,5
+EXP1.04,Asexual,No stress,NaCl,1,1,E,5
+EXP1.04,Asexual,No stress,NaCl,2,1,F,5
+EXP1.04,Asexual,No stress,NaCl,3,1,G,5
+EXP1.05,Asexual,No stress,No stress,1,1,B,6
+EXP1.05,Asexual,No stress,No stress,2,1,C,6
+EXP1.05,Asexual,No stress,No stress,3,1,D,6
+EXP1.05,Asexual,No stress,NaCl,1,1,E,6
+EXP1.05,Asexual,No stress,NaCl,2,1,F,6
+EXP1.05,Asexual,No stress,NaCl,3,1,G,6
+EXP1.06,Asexual,No stress,No stress,1,1,B,7
+EXP1.06,Asexual,No stress,No stress,2,1,C,7
+EXP1.06,Asexual,No stress,No stress,3,1,D,7
+EXP1.06,Asexual,No stress,NaCl,1,1,E,7
+EXP1.06,Asexual,No stress,NaCl,2,1,F,7
+EXP1.06,Asexual,No stress,NaCl,3,1,G,7
+EXP1.07,Asexual,No stress,No stress,1,1,B,8
+EXP1.07,Asexual,No stress,No stress,2,1,C,8
+EXP1.07,Asexual,No stress,No stress,3,1,D,8
+EXP1.07,Asexual,No stress,NaCl,1,1,E,8
+EXP1.07,Asexual,No stress,NaCl,2,1,F,8
+EXP1.07,Asexual,No stress,NaCl,3,1,G,8
+EXP1.08,Asexual,No stress,No stress,1,1,B,9
+EXP1.08,Asexual,No stress,No stress,2,1,C,9
+EXP1.08,Asexual,No stress,No stress,3,1,D,9
+EXP1.08,Asexual,No stress,NaCl,1,1,E,9
+EXP1.08,Asexual,No stress,NaCl,2,1,F,9
+EXP1.08,Asexual,No stress,NaCl,3,1,G,9
+EXP1.09,Asexual,No stress,No stress,1,1,B,10
+EXP1.09,Asexual,No stress,No stress,2,1,C,10
+EXP1.09,Asexual,No stress,No stress,3,1,D,10
+EXP1.09,Asexual,No stress,NaCl,1,1,E,10
+EXP1.09,Asexual,No stress,NaCl,2,1,F,10
+EXP1.09,Asexual,No stress,NaCl,3,1,G,10
+EXP1.10,Asexual,No stress,No stress,1,1,B,11
+EXP1.10,Asexual,No stress,No stress,2,1,C,11
+EXP1.10,Asexual,No stress,No stress,3,1,D,11
+EXP1.10,Asexual,No stress,NaCl,1,1,E,11
+EXP1.10,Asexual,No stress,NaCl,2,1,F,11
+EXP1.10,Asexual,No stress,NaCl,3,1,G,11
+EXP1.11,Asexual,No stress,No stress,1,2,B,2
+EXP1.11,Asexual,No stress,No stress,2,2,C,2
+EXP1.11,Asexual,No stress,No stress,3,2,D,2
+EXP1.11,Asexual,No stress,NaCl,1,2,E,2
+EXP1.11,Asexual,No stress,NaCl,2,2,F,2
+EXP1.11,Asexual,No stress,NaCl,3,2,G,2
+EXP1.12,Asexual,No stress,No stress,1,2,B,3
+EXP1.12,Asexual,No stress,No stress,2,2,C,3
+EXP1.12,Asexual,No stress,No stress,3,2,D,3
+EXP1.12,Asexual,No stress,NaCl,1,2,E,3
+EXP1.12,Asexual,No stress,NaCl,2,2,F,3
+EXP1.12,Asexual,No stress,NaCl,3,2,G,3
+EXP1.13,Sexual,No stress,No stress,1,2,B,4
+EXP1.13,Sexual,No stress,No stress,2,2,C,4
+EXP1.13,Sexual,No stress,No stress,3,2,D,4
+EXP1.13,Sexual,No stress,NaCl,1,2,E,4
+EXP1.13,Sexual,No stress,NaCl,2,2,F,4
+EXP1.13,Sexual,No stress,NaCl,3,2,G,4
+EXP1.14,Sexual,No stress,No stress,1,2,B,5
+EXP1.14,Sexual,No stress,No stress,2,2,C,5
+EXP1.14,Sexual,No stress,No stress,3,2,D,5
+EXP1.14,Sexual,No stress,NaCl,1,2,E,5
+EXP1.14,Sexual,No stress,NaCl,2,2,F,5
+EXP1.14,Sexual,No stress,NaCl,3,2,G,5
+EXP1.15,Sexual,No stress,No stress,1,2,B,6
+EXP1.15,Sexual,No stress,No stress,2,2,C,6
+EXP1.15,Sexual,No stress,No stress,3,2,D,6
+EXP1.15,Sexual,No stress,NaCl,1,2,E,6
+EXP1.15,Sexual,No stress,NaCl,2,2,F,6
+EXP1.15,Sexual,No stress,NaCl,3,2,G,6
+EXP1.16,Sexual,No stress,No stress,1,2,B,7
+EXP1.16,Sexual,No stress,No stress,2,2,C,7
+EXP1.16,Sexual,No stress,No stress,3,2,D,7
+EXP1.16,Sexual,No stress,NaCl,1,2,E,7
+EXP1.16,Sexual,No stress,NaCl,2,2,F,7
+EXP1.16,Sexual,No stress,NaCl,3,2,G,7
+EXP1.17,Sexual,No stress,No stress,1,2,B,8
+EXP1.17,Sexual,No stress,No stress,2,2,C,8
+EXP1.17,Sexual,No stress,No stress,3,2,D,8
+EXP1.17,Sexual,No stress,NaCl,1,2,E,8
+EXP1.17,Sexual,No stress,NaCl,2,2,F,8
+EXP1.17,Sexual,No stress,NaCl,3,2,G,8
+EXP1.18,Sexual,No stress,No stress,1,2,B,9
+EXP1.18,Sexual,No stress,No stress,2,2,C,9
+EXP1.18,Sexual,No stress,No stress,3,2,D,9
+EXP1.18,Sexual,No stress,NaCl,1,2,E,9
+EXP1.18,Sexual,No stress,NaCl,2,2,F,9
+EXP1.18,Sexual,No stress,NaCl,3,2,G,9
+EXP1.19,Sexual,No stress,No stress,1,2,B,10
+EXP1.19,Sexual,No stress,No stress,2,2,C,10
+EXP1.19,Sexual,No stress,No stress,3,2,D,10
+EXP1.19,Sexual,No stress,NaCl,1,2,E,10
+EXP1.19,Sexual,No stress,NaCl,2,2,F,10
+EXP1.19,Sexual,No stress,NaCl,3,2,G,10
+EXP1.20,Sexual,No stress,No stress,1,2,B,11
+EXP1.20,Sexual,No stress,No stress,2,2,C,11
+EXP1.20,Sexual,No stress,No stress,3,2,D,11
+EXP1.20,Sexual,No stress,NaCl,1,2,E,11
+EXP1.20,Sexual,No stress,NaCl,2,2,F,11
+EXP1.20,Sexual,No stress,NaCl,3,2,G,11
+EXP1.21,Sexual,No stress,No stress,1,3,B,2
+EXP1.21,Sexual,No stress,No stress,2,3,C,2
+EXP1.21,Sexual,No stress,No stress,3,3,D,2
+EXP1.21,Sexual,No stress,NaCl,1,3,E,2
+EXP1.21,Sexual,No stress,NaCl,2,3,F,2
+EXP1.21,Sexual,No stress,NaCl,3,3,G,2
+EXP1.22,Sexual,No stress,No stress,1,3,B,3
+EXP1.22,Sexual,No stress,No stress,2,3,C,3
+EXP1.22,Sexual,No stress,No stress,3,3,D,3
+EXP1.22,Sexual,No stress,NaCl,1,3,E,3
+EXP1.22,Sexual,No stress,NaCl,2,3,F,3
+EXP1.22,Sexual,No stress,NaCl,3,3,G,3
+EXP1.23,Sexual,No stress,No stress,1,3,B,4
+EXP1.23,Sexual,No stress,No stress,2,3,C,4
+EXP1.23,Sexual,No stress,No stress,3,3,D,4
+EXP1.23,Sexual,No stress,NaCl,1,3,E,4
+EXP1.23,Sexual,No stress,NaCl,2,3,F,4
+EXP1.23,Sexual,No stress,NaCl,3,3,G,4
+EXP1.24,Sexual,No stress,No stress,1,3,B,5
+EXP1.24,Sexual,No stress,No stress,2,3,C,5
+EXP1.24,Sexual,No stress,No stress,3,3,D,5
+EXP1.24,Sexual,No stress,NaCl,1,3,E,5
+EXP1.24,Sexual,No stress,NaCl,2,3,F,5
+EXP1.24,Sexual,No stress,NaCl,3,3,G,5
+EXP1.25,Asexual,NaCl,No stress,1,3,B,6
+EXP1.25,Asexual,NaCl,No stress,2,3,C,6
+EXP1.25,Asexual,NaCl,No stress,3,3,D,6
+EXP1.25,Asexual,NaCl,NaCl,1,3,E,6
+EXP1.25,Asexual,NaCl,NaCl,2,3,F,6
+EXP1.25,Asexual,NaCl,NaCl,3,3,G,6
+EXP1.26,Asexual,NaCl,No stress,1,3,B,7
+EXP1.26,Asexual,NaCl,No stress,2,3,C,7
+EXP1.26,Asexual,NaCl,No stress,3,3,D,7
+EXP1.26,Asexual,NaCl,NaCl,1,3,E,7
+EXP1.26,Asexual,NaCl,NaCl,2,3,F,7
+EXP1.26,Asexual,NaCl,NaCl,3,3,G,7
+EXP1.27,Asexual,NaCl,No stress,1,3,B,8
+EXP1.27,Asexual,NaCl,No stress,2,3,C,8
+EXP1.27,Asexual,NaCl,No stress,3,3,D,8
+EXP1.27,Asexual,NaCl,NaCl,1,3,E,8
+EXP1.27,Asexual,NaCl,NaCl,2,3,F,8
+EXP1.27,Asexual,NaCl,NaCl,3,3,G,8
+EXP1.28,Asexual,NaCl,No stress,1,3,B,9
+EXP1.28,Asexual,NaCl,No stress,2,3,C,9
+EXP1.28,Asexual,NaCl,No stress,3,3,D,9
+EXP1.28,Asexual,NaCl,NaCl,1,3,E,9
+EXP1.28,Asexual,NaCl,NaCl,2,3,F,9
+EXP1.28,Asexual,NaCl,NaCl,3,3,G,9
+EXP1.29,Asexual,NaCl,No stress,1,3,B,10
+EXP1.29,Asexual,NaCl,No stress,2,3,C,10
+EXP1.29,Asexual,NaCl,No stress,3,3,D,10
+EXP1.29,Asexual,NaCl,NaCl,1,3,E,10
+EXP1.29,Asexual,NaCl,NaCl,2,3,F,10
+EXP1.29,Asexual,NaCl,NaCl,3,3,G,10
+EXP1.30,Asexual,NaCl,No stress,1,3,B,11
+EXP1.30,Asexual,NaCl,No stress,2,3,C,11
+EXP1.30,Asexual,NaCl,No stress,3,3,D,11
+EXP1.30,Asexual,NaCl,NaCl,1,3,E,11
+EXP1.30,Asexual,NaCl,NaCl,2,3,F,11
+EXP1.30,Asexual,NaCl,NaCl,3,3,G,11
+EXP1.31,Asexual,NaCl,No stress,1,4,B,2
+EXP1.31,Asexual,NaCl,No stress,2,4,C,2
+EXP1.31,Asexual,NaCl,No stress,3,4,D,2
+EXP1.31,Asexual,NaCl,NaCl,1,4,E,2
+EXP1.31,Asexual,NaCl,NaCl,2,4,F,2
+EXP1.31,Asexual,NaCl,NaCl,3,4,G,2
+EXP1.32,Asexual,NaCl,No stress,1,4,B,3
+EXP1.32,Asexual,NaCl,No stress,2,4,C,3
+EXP1.32,Asexual,NaCl,No stress,3,4,D,3
+EXP1.32,Asexual,NaCl,NaCl,1,4,E,3
+EXP1.32,Asexual,NaCl,NaCl,2,4,F,3
+EXP1.32,Asexual,NaCl,NaCl,3,4,G,3
+EXP1.33,Asexual,NaCl,No stress,1,4,B,4
+EXP1.33,Asexual,NaCl,No stress,2,4,C,4
+EXP1.33,Asexual,NaCl,No stress,3,4,D,4
+EXP1.33,Asexual,NaCl,NaCl,1,4,E,4
+EXP1.33,Asexual,NaCl,NaCl,2,4,F,4
+EXP1.33,Asexual,NaCl,NaCl,3,4,G,4
+EXP1.34,Asexual,NaCl,No stress,1,4,B,5
+EXP1.34,Asexual,NaCl,No stress,2,4,C,5
+EXP1.34,Asexual,NaCl,No stress,3,4,D,5
+EXP1.34,Asexual,NaCl,NaCl,1,4,E,5
+EXP1.34,Asexual,NaCl,NaCl,2,4,F,5
+EXP1.34,Asexual,NaCl,NaCl,3,4,G,5
+EXP1.35,Asexual,NaCl,No stress,1,4,B,6
+EXP1.35,Asexual,NaCl,No stress,2,4,C,6
+EXP1.35,Asexual,NaCl,No stress,3,4,D,6
+EXP1.35,Asexual,NaCl,NaCl,1,4,E,6
+EXP1.35,Asexual,NaCl,NaCl,2,4,F,6
+EXP1.35,Asexual,NaCl,NaCl,3,4,G,6
+EXP1.36,Asexual,NaCl,No stress,1,4,B,7
+EXP1.36,Asexual,NaCl,No stress,2,4,C,7
+EXP1.36,Asexual,NaCl,No stress,3,4,D,7
+EXP1.36,Asexual,NaCl,NaCl,1,4,E,7
+EXP1.36,Asexual,NaCl,NaCl,2,4,F,7
+EXP1.36,Asexual,NaCl,NaCl,3,4,G,7
+EXP1.37,Sexual,NaCl,No stress,1,4,B,8
+EXP1.37,Sexual,NaCl,No stress,2,4,C,8
+EXP1.37,Sexual,NaCl,No stress,3,4,D,8
+EXP1.37,Sexual,NaCl,NaCl,1,4,E,8
+EXP1.37,Sexual,NaCl,NaCl,2,4,F,8
+EXP1.37,Sexual,NaCl,NaCl,3,4,G,8
+EXP1.38,Sexual,NaCl,No stress,1,4,B,9
+EXP1.38,Sexual,NaCl,No stress,2,4,C,9
+EXP1.38,Sexual,NaCl,No stress,3,4,D,9
+EXP1.38,Sexual,NaCl,NaCl,1,4,E,9
+EXP1.38,Sexual,NaCl,NaCl,2,4,F,9
+EXP1.38,Sexual,NaCl,NaCl,3,4,G,9
+EXP1.39,Sexual,NaCl,No stress,1,4,B,10
+EXP1.39,Sexual,NaCl,No stress,2,4,C,10
+EXP1.39,Sexual,NaCl,No stress,3,4,D,10
+EXP1.39,Sexual,NaCl,NaCl,1,4,E,10
+EXP1.39,Sexual,NaCl,NaCl,2,4,F,10
+EXP1.39,Sexual,NaCl,NaCl,3,4,G,10
+EXP1.40,Sexual,NaCl,No stress,1,4,B,11
+EXP1.40,Sexual,NaCl,No stress,2,4,C,11
+EXP1.40,Sexual,NaCl,No stress,3,4,D,11
+EXP1.40,Sexual,NaCl,NaCl,1,4,E,11
+EXP1.40,Sexual,NaCl,NaCl,2,4,F,11
+EXP1.40,Sexual,NaCl,NaCl,3,4,G,11
+EXP1.41,Sexual,NaCl,No stress,1,5,B,2
+EXP1.41,Sexual,NaCl,No stress,2,5,C,2
+EXP1.41,Sexual,NaCl,No stress,3,5,D,2
+EXP1.41,Sexual,NaCl,NaCl,1,5,E,2
+EXP1.41,Sexual,NaCl,NaCl,2,5,F,2
+EXP1.41,Sexual,NaCl,NaCl,3,5,G,2
+EXP1.42,Sexual,NaCl,No stress,1,5,B,3
+EXP1.42,Sexual,NaCl,No stress,2,5,C,3
+EXP1.42,Sexual,NaCl,No stress,3,5,D,3
+EXP1.42,Sexual,NaCl,NaCl,1,5,E,3
+EXP1.42,Sexual,NaCl,NaCl,2,5,F,3
+EXP1.42,Sexual,NaCl,NaCl,3,5,G,3
+EXP1.43,Sexual,NaCl,No stress,1,5,B,4
+EXP1.43,Sexual,NaCl,No stress,2,5,C,4
+EXP1.43,Sexual,NaCl,No stress,3,5,D,4
+EXP1.43,Sexual,NaCl,NaCl,1,5,E,4
+EXP1.43,Sexual,NaCl,NaCl,2,5,F,4
+EXP1.43,Sexual,NaCl,NaCl,3,5,G,4
+EXP1.44,Sexual,NaCl,No stress,1,5,B,5
+EXP1.44,Sexual,NaCl,No stress,2,5,C,5
+EXP1.44,Sexual,NaCl,No stress,3,5,D,5
+EXP1.44,Sexual,NaCl,NaCl,1,5,E,5
+EXP1.44,Sexual,NaCl,NaCl,2,5,F,5
+EXP1.44,Sexual,NaCl,NaCl,3,5,G,5
+EXP1.45,Sexual,NaCl,No stress,1,5,B,6
+EXP1.45,Sexual,NaCl,No stress,2,5,C,6
+EXP1.45,Sexual,NaCl,No stress,3,5,D,6
+EXP1.45,Sexual,NaCl,NaCl,1,5,E,6
+EXP1.45,Sexual,NaCl,NaCl,2,5,F,6
+EXP1.45,Sexual,NaCl,NaCl,3,5,G,6
+EXP1.46,Sexual,NaCl,No stress,1,5,B,7
+EXP1.46,Sexual,NaCl,No stress,2,5,C,7
+EXP1.46,Sexual,NaCl,No stress,3,5,D,7
+EXP1.46,Sexual,NaCl,NaCl,1,5,E,7
+EXP1.46,Sexual,NaCl,NaCl,2,5,F,7
+EXP1.46,Sexual,NaCl,NaCl,3,5,G,7
+EXP1.47,Sexual,NaCl,No stress,1,5,B,8
+EXP1.47,Sexual,NaCl,No stress,2,5,C,8
+EXP1.47,Sexual,NaCl,No stress,3,5,D,8
+EXP1.47,Sexual,NaCl,NaCl,1,5,E,8
+EXP1.47,Sexual,NaCl,NaCl,2,5,F,8
+EXP1.47,Sexual,NaCl,NaCl,3,5,G,8
+EXP1.48,Sexual,NaCl,No stress,1,5,B,9
+EXP1.48,Sexual,NaCl,No stress,2,5,C,9
+EXP1.48,Sexual,NaCl,No stress,3,5,D,9
+EXP1.48,Sexual,NaCl,NaCl,1,5,E,9
+EXP1.48,Sexual,NaCl,NaCl,2,5,F,9
+EXP1.48,Sexual,NaCl,NaCl,3,5,G,9
